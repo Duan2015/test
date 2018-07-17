@@ -1,0 +1,9 @@
+﻿  ifsView.cpp
+f:\program files\visual studio 2015 project\myproject\renji\ifs\ifs\ifsview.cpp(131): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\program files\visual studio 2015 project\myproject\renji\ifs\ifs\ifsview.cpp(132): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\program files\visual studio 2015 project\myproject\renji\ifs\ifs\ifsview.cpp(188): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\program files\visual studio 2015 project\myproject\renji\ifs\ifs\ifsview.cpp(189): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\program files\visual studio 2015 project\myproject\renji\ifs\ifs\ifsview.cpp(238): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\program files\visual studio 2015 project\myproject\renji\ifs\ifs\ifsview.cpp(239): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  ifs.vcxproj -> F:\Program Files\Visual Studio 2015 project\myproject\renji\ifs\Debug\ifs.exe
+  ifs.vcxproj -> F:\Program Files\Visual Studio 2015 project\myproject\renji\ifs\Debug\ifs.pdb (Partial PDB)
